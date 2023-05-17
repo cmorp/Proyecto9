@@ -88,7 +88,7 @@ color:#523840;
   margin-right: 15px;
   margin-top: 10px;
   margin-left: 15px;
-  border: solid 1px #523840;
+  border: solid 1px #9d8189;
   background-color: #fff;
 }
 
@@ -227,6 +227,9 @@ color:#523840;
     font-size: larger;
   }
 
+.footer {
+  background-color: #fcebef;
+}
   .footer p {
     padding-left: 10px;
     padding-right: 10px;
